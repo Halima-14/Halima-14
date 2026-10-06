@@ -10,12 +10,14 @@ I am a self-taught data analyst with a background in Physics- now building impac
 - Python
 
 ## My Projects
-  - [Sales Performance Dashboard] (....)
+  - [Sales Performance Dashboard](https://github.com/Halima-14/sales-performance--analysis)
 
 ## Currently Learning
 - Advance SQL
 - Python for Data Science
 
+## Let's connect!
+[Linkedin](link)
 
 
 
